@@ -1,6 +1,6 @@
 <?php
 
-/*
+/**
  * html.inc.php
  *
  * HTML出力プラグイン
